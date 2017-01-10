@@ -28,7 +28,7 @@ body,html{
 
 }
 .tentando-parallax{
-    background-image: url('Fundo0.jpg');
+    background-image: url('../imagens/fundo.jpg');
     height: 50%;
     background-attachment: fixed;
     background-position: center;
